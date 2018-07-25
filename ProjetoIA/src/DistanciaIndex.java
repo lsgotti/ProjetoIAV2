@@ -1,7 +1,7 @@
 
 public class DistanciaIndex {
 	
-public DistanciaIndex() {
+public DistanciaIndex(int j, double resultadodistancia) {
 		super();
 	}
 private int index;
