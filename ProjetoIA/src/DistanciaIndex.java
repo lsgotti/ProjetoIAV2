@@ -2,7 +2,8 @@
 public class DistanciaIndex {
 	
 public DistanciaIndex(int j, double resultadodistancia) {
-		super();
+		this.index = j;
+		this.distancia = resultadodistancia;
 	}
 private int index;
 private double distancia;
